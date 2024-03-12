@@ -1,2 +1,2 @@
 # Telangana_Growth_Analysis
-created the project for telegana state 
+ I dive into Telangana's open data to provide valuable solutions for our state's growth. As a passionate data enthusiast, I've meticulously analyzed the available datasets to extract meaningful insights
